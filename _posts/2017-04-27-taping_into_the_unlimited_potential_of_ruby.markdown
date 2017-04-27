@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "'tap'ing into the unlimited potential of Ruby"
-date:   2017-04-27 08:30:26 +0000
+date:   2017-04-27 04:30:26 -0400
 ---
 
 
-For several years I have been a diehard Pythonist. Whenever friends and family asked me what the best language to start programming in is, I would invariably state that Python was great because it is dynamically typed, its syntax is one of the simplest and because there are so many good quality academic and scientific libraries available in it. Having seen the horrors of Perl from years before and having to schlepp through lists daily with `car` and `cdr` in Scheme, I envisioned a world in which there was not a more perfect programming language than Python. I had heard about Ruby, but read that it something of a 'reenvisioned Python'--certainly nothing worth my time to learn in the immediate.
+For several years I have been a diehard Pythonist. Whenever friends and family asked me what the best language to start programming in is, I would invariably state that Python was great because it is dynamically typed, its syntax is one of the simplest and because there are so many good quality academic and scientific libraries available in it. Having seen the horrors of Perl from years before and having to schlepp through lists daily with `car` and `cdr` in Scheme, I envisioned a world in which there was not a more perfect programming language than Python. I had heard about Ruby, but read that it was something of a 're-envisioned Python'--certainly nothing worth my time to learn in the immediate.
 
 > Initially, I was really perplexed by the `tap` method. 
 
