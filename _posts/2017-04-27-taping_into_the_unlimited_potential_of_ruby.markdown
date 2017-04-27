@@ -17,7 +17,7 @@ It wasn't until I started to learn about the 'iterator' methods in Ruby that my 
 
 But truly, where I was converted to a Rubyist was when I understood `tap`. Initially, I was really perplexed by the `tap` method. In the Ruby docs, this is the description:
 
->**`tap{|x| block } → obj` **
+>`tap{|x| block } → obj`
 
 >Yields self to the block, and then returns self. The primary purpose of this method is to 'tap into' a method chain, in order to perform operations on intermediate results within the chain.
 
