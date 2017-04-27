@@ -55,6 +55,6 @@ magic_number = 10
 end
 ```
 
-Although this is a rather contrived example and there are better ways to implement that code in both Ruby and in Python, it nevertheless illustrations lucidly one face: Ruby allows you to write tight, modular, beautiful code. You can keep your variables scoped to where they are relevant and only where they are relevant. That is the power of Ruby. That is why I am now a Rubyist for life.
+Although this is a rather contrived example and there are better ways to implement that code in both Ruby and in Python, it nevertheless illustrates lucidly one fact: Ruby allows you to write tight, modular, beautiful code. You can keep your variables scoped to where they are relevant and only where they are relevant. That is the power of Ruby. That is why I am now a Rubyist for life.
 
 
