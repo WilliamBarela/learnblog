@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra CRUD application with Bootstrap frontend."
-date:   2017-06-21 08:24:25 +0000
+date:   2017-06-21 04:24:26 -0400
 ---
 
 
@@ -10,3 +10,7 @@ Sinatra is an incredibly powerful backend micro-framework which gives you the po
 For that reason, I decided that one of the projects I wanted to build out is a CRUD (Create-Read-Update-Delete) application build in Sinatra. This last Spring semester my wife, who is a professor, decided to make her students record screencasts of themselves for assigned presentations. She also asked them to make a small introduction of themselves and record that so that the class could get to know all of their classmates in a more meaningful way. These presentations were to be done on YouTube and the link posted to a website similar to blackboard. Although with the rise of social media this was a good experience for the students, it was a little difficult for the students to have to search through the forum to find the links for each other. As a result, I was pleased to find a practical reason to build out an app in Sinatra.
 
 Using bootstrap to give a little makeup to the frontend, I am happy to say that I am quite pleased with my work. Sinatra has proven to be a very powerful tool to futher my understanding of the deep internals of MVC and CRUD operations. An added bonus is that I can see how this web application will grow into a very useful and used application which my wife, her students, and her university will employ. I am looking forward to building out the views and routes for the comments section for the presentations.
+
+The repo for this project is hosted [here](https://github.com/WilliamBarela/sinatra-business-classroom) on Github. Instructions on how to download and seed the database is listed there as well. The following is a screenshot of the login page of the app:
+
+![](https://raw.githubusercontent.com/WilliamBarela/sinatra-business-classroom/master/public/img/sinatra.png)
