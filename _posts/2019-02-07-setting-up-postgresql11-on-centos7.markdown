@@ -15,7 +15,7 @@ So, I am writing this blog post to save you the trouble of having to search /var
 Additionally, I will give a short introduction on where to get the RPM and how to install PostgresSQL.
 
 
-# Installing PostgreSQL 11:
+## Installing PostgreSQL 11:
 First all you need to go to the [PostgreSQL download page](https://www.postgresql.org/download/linux/redhat/) and select the RPM for your environment and version of choice. Based on my selection of my OS being Centos 7, the architecture being x86_64 (use `uname -a` if you are unsure), and wanting PostgreSQL 11, this is the instructions which are given.
 By the time you read this, Postgres may have already updated to a new minor version, so the first line I code in the following has to be modfied:
 
@@ -34,7 +34,7 @@ $ sudo systemctl enable postgresql.service
 $ sudo systemctl start postgresql.service
 ```
 
-# Moving PostgreSQL Data Directory:
+## Moving PostgreSQL Data Directory:
 
 Okay, assuming everything went as expected for the install, this where the changes are.
 In previous versions of PostgreSQL, the data_directory was located in `/var/lib/postgresql/XX/main`. 
@@ -70,7 +70,7 @@ $ sudo systemctl stop postgresql-11
 Verify that it has indeed been shutdown:
 
 ```
-sudo systemctl status postgresql-11
+$ sudo systemctl status postgresql-11
 ```
 
 ...to be continued.
