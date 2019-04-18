@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "rails_university web application"
-date:       2019-04-18 07:01:01 +0000
+date:       2019-04-18 03:01:02 -0400
 permalink:  rails_university_web_application
 ---
 
