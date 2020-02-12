@@ -5,7 +5,7 @@ email: william.barela.dev@gmail.com
 copyright_name: WilliamBarela
 description: > # this means to ignore newlines until "baseurl:"
   Weaving structural holes in the journey of web development
-baseurl: "https://williambarela.github.io/learnblog" # the subpath of your site, e.g. /blog
+baseurl: "/learnblog" # the subpath of your site, e.g. /blog
 twitter_username: FullStackDev0
 github_username:  WilliamBarela
 learn_profile: WilliamBarela
